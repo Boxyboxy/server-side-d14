@@ -1,0 +1,1 @@
+redis-cli -h redis-11384.c252.ap-southeast-1-1.ec2.cloud.redislabs.com -a Workshopd14 -p 11384
